@@ -1,3 +1,0 @@
-1. that the parent of an element is always declared before its children
-2. that an element with parent id equal to its own id is rooted at the top node
-3. that there would be more than one element with an id equal to that of its parent, i.e. parent_id === id
