@@ -1,5 +1,6 @@
 import React from "react";
 import AddModal from "./AddModal";
+import PropTypes from "prop-types";
 
 class Node extends React.Component {
   constructor(props) {
@@ -107,5 +108,15 @@ class Node extends React.Component {
     );
   }
 }
+
+Node.PropTypes = {
+  id: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
+  parent_id: PropTypes.string.isRequired,
+  amount: PropTypes.number.isRequired,
+  total_amount: PropTypes.number.isRequired,
+  children: PropTypes.array.isRequired,
+  removeChild: PropTypes.func.isRequired
+};
 
 export default Node;

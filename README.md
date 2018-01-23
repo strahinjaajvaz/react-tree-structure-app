@@ -21,7 +21,7 @@ The back end builds a tree structure (Linked nodes) using the data supplied in t
 
 ## Technologies used
 
-* React from the front end 
+* React for the front end 
 * Node.js with Express for the server and the routing.
 
 

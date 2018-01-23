@@ -1,6 +1,7 @@
 import React from "react";
 import Modal from "react-modal";
 import uuid from "uuid";
+import PropTypes from "prop-types";
 
 import validateForm from "../utils/helper";
 
@@ -116,6 +117,14 @@ class AddModal extends React.Component {
       </div>
     );
   }
+}
+
+AddModal.prototype = {
+  parentId: PropTypes.string.isRequired,
+  id: PropTypes.string.isRequired,
+  total_amount : PropTypes.number.isRequired,
+  addChild: PropTypes.func.isRequired,
+  removeChild: PropTypes.func.isRequired
 }
 
 export default AddModal;
