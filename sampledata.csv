@@ -1,0 +1,1001 @@
+id,name,parent_id,amout
+1,Kropf,1,48.67
+2,Chive,1,19.15
+3,Mandrake,2,64.16
+4,Hanson,3,36.46
+5,Fulton,1,6.92
+6,Ruskin,5,5.35
+7,Lake View,3,77.96
+8,Merchant,6,60.09
+9,Luster,1,60.13
+10,Cherokee,1,96.37
+11,5th,2,62.42
+12,Sundown,11,55.13
+13,Mcguire,1,15.95
+14,Spenser,3,80.57
+15,Browning,6,28.2
+16,Summer Ridge,15,53.13
+17,Kedzie,1,73.14
+18,Reindahl,4,97.24
+19,Kensington,16,85.21
+20,Dryden,12,66.38
+21,Meadow Valley,5,4.88
+22,Ronald Regan,6,32.54
+23,Moland,18,12.86
+24,Daystar,9,84.54
+25,Bowman,4,92.7
+26,Sheridan,3,13.96
+27,Anderson,13,98.41
+28,Waxwing,27,3.47
+29,Independence,25,87.67
+30,Veith,19,42.18
+31,Holy Cross,2,41.42
+32,Duke,29,24.53
+33,Chive,4,30.23
+34,Arapahoe,27,90.85
+35,Homewood,26,61.44
+36,Bunker Hill,4,22.96
+37,Clyde Gallagher,27,0.33
+38,Dayton,26,13.42
+39,Union,27,71.9
+40,Continental,18,73.18
+41,Gale,1,80.09
+42,Karstens,4,84.73
+43,Grayhawk,23,43.55
+44,Ilene,2,35.91
+45,Meadow Ridge,22,56.22
+46,Roth,32,32.56
+47,Dayton,14,35.51
+48,Straubel,18,38.35
+49,Badeau,20,71.04
+50,Sycamore,21,79.74
+51,Redwing,46,3.71
+52,Milwaukee,17,5.47
+53,Rigney,12,48.79
+54,Stang,3,95.04
+55,Old Shore,15,40.5
+56,Novick,36,47.41
+57,Atwood,6,92.98
+58,David,10,41.07
+59,Shasta,52,75.76
+60,Burning Wood,36,3.67
+61,Daystar,6,99.3
+62,Graceland,33,30.36
+63,Upham,19,99.03
+64,Blue Bill Park,11,86.24
+65,Vernon,39,72.95
+66,Nelson,9,40.85
+67,Summerview,40,44.98
+68,Center,20,0.31
+69,Old Shore,2,83.88
+70,Cardinal,14,45.22
+71,Bashford,47,59.38
+72,Dwight,59,19.73
+73,Scoville,2,61.07
+74,Golf,55,14.63
+75,Troy,12,87.66
+76,Farwell,18,30.06
+77,Talmadge,40,26.93
+78,Dovetail,70,0.36
+79,Anniversary,41,10.47
+80,Butterfield,35,93.29
+81,Elgar,60,78.7
+82,Cardinal,17,52.58
+83,Briar Crest,23,45.2
+84,Alpine,8,4.05
+85,Artisan,63,46.07
+86,Elgar,42,99.14
+87,Cambridge,42,76.81
+88,Upham,56,52.13
+89,Harper,34,1.04
+90,Harbort,67,94.36
+91,Fieldstone,18,53.75
+92,Derek,48,88.94
+93,Anderson,89,92.16
+94,Sloan,22,17.17
+95,Birchwood,89,48.09
+96,Moulton,85,45.98
+97,Cordelia,68,16.18
+98,Hoffman,50,46.1
+99,Morrow,40,99.29
+100,Stoughton,53,84.71
+101,Briar Crest,48,18.28
+102,Banding,71,26.39
+103,Lien,84,86.27
+104,Michigan,92,48.87
+105,Hovde,40,47.48
+106,Crest Line,87,99.14
+107,Bluejay,35,8.55
+108,Manley,32,40.28
+109,Nevada,100,7.14
+110,8th,74,34.18
+111,Loftsgordon,93,79.82
+112,Mifflin,91,7.31
+113,Fallview,104,83.66
+114,Gulseth,50,11.93
+115,Clarendon,69,80.82
+116,Eliot,59,98.42
+117,Cardinal,21,73.75
+118,Dakota,68,63.13
+119,Anniversary,5,74.2
+120,Waxwing,79,52.56
+121,Walton,113,93.22
+122,Larry,50,15.45
+123,Briar Crest,38,27.08
+124,Kipling,20,67.62
+125,Moulton,119,80.2
+126,Ludington,22,1.03
+127,Schurz,18,91.75
+128,Fallview,86,9.9
+129,Lake View,51,27.36
+130,Grim,101,24.47
+131,North,121,92.43
+132,Warrior,91,31.32
+133,Crowley,75,47.75
+134,5th,5,16.77
+135,Welch,20,39.58
+136,Lotheville,79,23.01
+137,Fremont,31,96.97
+138,Sauthoff,13,37.04
+139,Debra,41,22.9
+140,Hagan,12,15.43
+141,Oneill,27,58.29
+142,6th,126,38.67
+143,Sherman,116,32.27
+144,Manitowish,27,40.55
+145,Arapahoe,124,46.06
+146,Duke,61,35.37
+147,Summerview,107,68.46
+148,Nobel,76,53.58
+149,Maryland,138,35.65
+150,David,140,38.52
+151,Pierstorff,9,56.93
+152,Schmedeman,98,82.87
+153,Fieldstone,100,54.93
+154,Bultman,150,3.06
+155,Prentice,128,0.29
+156,Dryden,90,92.88
+157,Norway Maple,128,81.22
+158,Mariners Cove,42,71.43
+159,Gulseth,36,38.38
+160,Florence,77,47.05
+161,Artisan,59,13.94
+162,Schmedeman,40,53.37
+163,Walton,4,62.69
+164,Erie,32,55.76
+165,Towne,16,98.08
+166,Petterle,162,14.3
+167,Summit,138,75.59
+168,Cordelia,46,12.45
+169,Anderson,7,48.91
+170,Riverside,27,36.66
+171,Corben,114,43.32
+172,Hayes,78,7.2
+173,Katie,36,9.42
+174,Surrey,125,64.08
+175,6th,152,31.66
+176,Welch,49,38.15
+177,Clyde Gallagher,109,55.75
+178,Morrow,103,66.92
+179,Eliot,156,6.97
+180,Fair Oaks,29,2.86
+181,Shasta,84,64.14
+182,Beilfuss,35,81.46
+183,Monument,67,96.0
+184,Kingsford,93,80.77
+185,Kings,63,28.24
+186,Marquette,34,44.3
+187,Southridge,174,78.49
+188,Pearson,112,84.25
+189,Sunbrook,29,27.97
+190,West,127,6.53
+191,Gina,132,84.76
+192,Cottonwood,24,72.41
+193,Hoepker,137,71.29
+194,Dwight,2,29.54
+195,Eastlawn,135,78.13
+196,Dorton,93,24.13
+197,Thompson,177,95.35
+198,Kim,39,22.46
+199,Dennis,63,50.99
+200,Fuller,34,72.4
+201,Pearson,104,60.12
+202,Pankratz,105,81.88
+203,Morrow,68,89.58
+204,Valley Edge,94,89.11
+205,Fuller,91,82.87
+206,Reindahl,138,14.76
+207,Briar Crest,62,47.45
+208,Meadow Vale,190,48.48
+209,Lerdahl,2,32.79
+210,Elgar,105,94.83
+211,Ryan,12,36.4
+212,Mitchell,143,14.2
+213,Gerald,82,26.45
+214,Kings,134,61.44
+215,Esch,173,95.68
+216,Main,136,36.16
+217,Golf Course,105,67.8
+218,Southridge,81,69.24
+219,Bartelt,5,40.33
+220,Pine View,51,87.73
+221,Sunbrook,43,90.43
+222,Fair Oaks,62,15.16
+223,Mitchell,90,8.64
+224,Muir,58,35.28
+225,Maple,217,91.3
+226,Carberry,224,18.11
+227,Mandrake,122,33.1
+228,Susan,81,64.32
+229,New Castle,103,70.49
+230,Meadow Ridge,210,49.84
+231,Rigney,223,77.93
+232,Gateway,185,46.78
+233,Helena,184,50.1
+234,Garrison,192,65.65
+235,Messerschmidt,76,48.31
+236,Shelley,85,56.55
+237,Springview,168,25.06
+238,Hauk,69,49.47
+239,Riverside,115,48.48
+240,Miller,98,38.98
+241,Hauk,136,93.59
+242,Esker,55,43.48
+243,Miller,165,60.55
+244,Thierer,23,84.27
+245,Kings,241,39.32
+246,Algoma,162,77.46
+247,Warrior,115,82.48
+248,Dayton,42,70.64
+249,Huxley,39,44.47
+250,Gulseth,36,89.27
+251,Declaration,96,63.03
+252,Algoma,248,0.83
+253,Longview,139,42.12
+254,Muir,85,63.84
+255,Mccormick,90,58.53
+256,Anthes,216,23.71
+257,Harper,234,47.15
+258,Gerald,225,62.93
+259,Monterey,238,76.27
+260,Esch,22,84.53
+261,Pleasure,140,12.29
+262,Almo,246,51.75
+263,Melody,48,15.72
+264,Bashford,42,49.03
+265,Summerview,202,53.85
+266,Messerschmidt,57,98.17
+267,Bobwhite,208,1.19
+268,Kenwood,45,65.3
+269,Donald,68,33.31
+270,Evergreen,124,44.88
+271,Doe Crossing,39,95.25
+272,Cottonwood,262,64.65
+273,Summer Ridge,116,76.11
+274,Center,46,4.31
+275,Boyd,6,76.9
+276,Stone Corner,50,44.97
+277,Nobel,217,40.35
+278,Superior,249,84.93
+279,Moose,201,10.98
+280,Debs,195,5.78
+281,Emmet,58,38.46
+282,Vahlen,141,41.99
+283,Buhler,226,78.44
+284,Trailsway,264,11.8
+285,Rigney,49,89.0
+286,Clarendon,60,96.42
+287,Calypso,40,57.62
+288,Cascade,219,53.19
+289,Memorial,153,79.73
+290,Anderson,7,35.91
+291,Anniversary,109,51.92
+292,Sugar,57,77.05
+293,Forster,266,35.09
+294,Portage,82,61.36
+295,Brown,117,92.95
+296,Kinsman,119,73.67
+297,Mitchell,198,25.94
+298,Service,295,73.51
+299,Banding,295,75.18
+300,Independence,241,27.21
+301,Thierer,143,53.98
+302,Clyde Gallagher,58,10.07
+303,Lake View,168,63.9
+304,Nova,278,43.35
+305,Vermont,291,98.29
+306,Shopko,73,77.86
+307,Maple,278,97.69
+308,Mockingbird,70,32.38
+309,Straubel,260,81.49
+310,South,80,26.12
+311,Boyd,150,49.41
+312,Gerald,200,42.07
+313,Prairie Rose,148,44.0
+314,Main,149,31.01
+315,Center,252,26.76
+316,Coleman,196,73.12
+317,Duke,285,75.82
+318,Del Mar,308,11.17
+319,Killdeer,146,23.19
+320,Mccormick,113,75.88
+321,Mosinee,302,41.68
+322,Glendale,268,31.7
+323,Eliot,189,94.4
+324,Maple Wood,304,34.56
+325,Nancy,208,52.1
+326,Sutteridge,137,93.18
+327,Donald,79,84.92
+328,Oriole,293,31.14
+329,Division,268,98.07
+330,Porter,67,61.76
+331,Victoria,320,6.69
+332,Quincy,80,72.89
+333,Green,161,36.02
+334,Hayes,33,51.46
+335,Hansons,31,2.87
+336,Tennessee,102,63.07
+337,Dayton,148,26.83
+338,Graedel,186,81.48
+339,Oakridge,330,45.01
+340,Rigney,198,31.55
+341,American,255,93.81
+342,Shasta,117,10.57
+343,Ruskin,294,32.96
+344,Badeau,167,23.97
+345,Mariners Cove,69,8.46
+346,Hoffman,212,93.52
+347,Tony,194,50.09
+348,Mesta,101,45.18
+349,Larry,116,69.97
+350,Talisman,11,38.55
+351,Moose,263,51.34
+352,Annamark,291,3.98
+353,Autumn Leaf,252,56.64
+354,Meadow Ridge,176,41.78
+355,Hermina,173,66.09
+356,Welch,121,54.86
+357,Dayton,300,1.15
+358,Oak Valley,321,58.15
+359,Michigan,76,78.99
+360,Tony,330,52.22
+361,Farwell,331,83.75
+362,Kensington,123,2.43
+363,Kenwood,86,76.68
+364,Magdeline,151,1.26
+365,Melvin,286,18.49
+366,Hanover,216,94.15
+367,Tomscot,24,9.96
+368,Columbus,302,31.67
+369,Heath,68,91.71
+370,1st,45,84.82
+371,Maywood,327,74.23
+372,Oneill,185,94.33
+373,Morningstar,118,83.21
+374,Cambridge,158,52.42
+375,Goodland,255,38.29
+376,Pine View,59,30.65
+377,Ludington,314,8.34
+378,Mendota,266,16.47
+379,Granby,70,32.42
+380,Hoffman,355,39.58
+381,Larry,299,86.5
+382,Laurel,265,26.26
+383,Jenna,170,85.93
+384,American,245,9.28
+385,Lyons,105,40.76
+386,Lotheville,362,55.99
+387,Coolidge,224,45.67
+388,Graedel,278,86.59
+389,Clyde Gallagher,85,12.59
+390,Corscot,336,34.6
+391,Eagle Crest,39,63.1
+392,Holy Cross,336,8.09
+393,Mallory,286,39.06
+394,Grayhawk,222,79.48
+395,Little Fleur,215,23.32
+396,Bultman,184,41.84
+397,Haas,128,14.35
+398,Hermina,40,90.11
+399,Lighthouse Bay,93,54.29
+400,Roth,391,97.58
+401,Kenwood,33,46.57
+402,Springview,123,37.53
+403,Fordem,112,52.67
+404,Waubesa,402,67.03
+405,Prentice,81,93.91
+406,Onsgard,281,30.71
+407,Burrows,94,2.59
+408,Victoria,148,42.78
+409,Hanson,315,62.29
+410,Farwell,188,79.29
+411,Washington,330,31.02
+412,Pankratz,126,90.65
+413,Crest Line,363,42.95
+414,Sullivan,148,97.35
+415,Hauk,99,92.7
+416,Northfield,401,99.62
+417,Dexter,359,96.7
+418,Dottie,213,19.82
+419,Artisan,163,32.0
+420,Charing Cross,254,57.44
+421,Springview,139,34.44
+422,Ohio,24,48.12
+423,Schlimgen,115,80.26
+424,Mallory,63,1.77
+425,Manley,184,43.33
+426,Merry,181,27.71
+427,Weeping Birch,73,83.52
+428,Monument,284,44.15
+429,Village,391,90.6
+430,Hayes,104,78.14
+431,Fieldstone,379,68.79
+432,Shelley,335,20.29
+433,Harper,342,41.86
+434,Doe Crossing,66,96.92
+435,Swallow,427,9.36
+436,Jana,331,40.71
+437,Scoville,305,96.34
+438,Green,225,81.5
+439,Dawn,385,99.54
+440,7th,191,92.37
+441,Shoshone,240,7.44
+442,Cottonwood,384,71.96
+443,Fallview,85,77.85
+444,Crest Line,71,24.18
+445,Bunting,133,58.65
+446,Elgar,56,8.55
+447,Elgar,341,35.66
+448,Lien,97,73.93
+449,Helena,363,58.69
+450,Glacier Hill,7,23.89
+451,Melrose,127,85.7
+452,Barnett,143,3.2
+453,Michigan,312,73.76
+454,Hudson,372,14.58
+455,Porter,214,99.66
+456,Heath,383,70.61
+457,Kenwood,350,56.45
+458,Summit,373,67.4
+459,Mifflin,40,76.37
+460,Jackson,205,42.49
+461,Oak Valley,90,87.27
+462,Milwaukee,360,68.42
+463,Bobwhite,44,14.59
+464,Iowa,429,20.02
+465,Luster,60,90.08
+466,Talisman,427,83.44
+467,Boyd,368,4.05
+468,Basil,439,2.96
+469,Little Fleur,155,75.98
+470,Longview,407,69.45
+471,Weeping Birch,453,41.82
+472,Fisk,81,22.38
+473,Main,136,78.06
+474,3rd,172,94.46
+475,Golf View,313,82.68
+476,Maple Wood,377,23.12
+477,Vernon,149,13.88
+478,Scofield,50,69.69
+479,Forest Dale,204,28.83
+480,Scoville,345,53.75
+481,Warrior,457,74.23
+482,Carberry,118,66.38
+483,Michigan,4,24.65
+484,Pond,62,4.3
+485,La Follette,21,36.46
+486,Talmadge,317,10.36
+487,Lunder,413,67.37
+488,Fuller,100,32.19
+489,Loftsgordon,212,23.32
+490,Pierstorff,337,10.34
+491,Cardinal,266,3.18
+492,Randy,178,62.17
+493,Packers,451,1.74
+494,Express,347,52.2
+495,Doe Crossing,181,41.25
+496,Warbler,165,46.57
+497,Eggendart,335,65.88
+498,Carberry,321,54.93
+499,Swallow,75,34.06
+500,Judy,488,80.05
+501,Dennis,156,7.04
+502,Swallow,369,87.35
+503,Grayhawk,161,90.05
+504,Westport,350,42.52
+505,Rowland,411,76.74
+506,Hagan,21,91.06
+507,Sauthoff,414,8.42
+508,Florence,303,0.91
+509,Mendota,268,97.93
+510,Ilene,20,62.81
+511,Lakeland,448,42.78
+512,Dorton,395,93.24
+513,Buena Vista,140,50.35
+514,Marcy,354,39.4
+515,Granby,185,80.93
+516,Fulton,455,96.44
+517,Jenna,332,44.48
+518,Oak,342,79.52
+519,Express,114,85.07
+520,Farragut,268,24.65
+521,Monument,276,72.24
+522,Shasta,342,69.36
+523,Welch,502,73.34
+524,Browning,41,89.54
+525,Comanche,489,14.19
+526,Merrick,360,38.75
+527,Lyons,192,81.01
+528,Kensington,84,78.17
+529,Westport,143,77.09
+530,Bonner,375,51.39
+531,Laurel,340,71.5
+532,Pankratz,312,21.14
+533,Quincy,257,72.53
+534,Elgar,112,53.95
+535,Onsgard,201,84.12
+536,Charing Cross,161,22.5
+537,Manufacturers,333,70.37
+538,Graceland,168,53.02
+539,Eggendart,61,68.19
+540,Grayhawk,127,96.77
+541,Nobel,3,80.57
+542,Claremont,513,43.04
+543,American,324,18.45
+544,Manitowish,116,99.17
+545,Mockingbird,497,77.0
+546,Stang,450,55.82
+547,Dayton,226,21.83
+548,Lien,116,84.22
+549,Park Meadow,488,8.79
+550,American,166,99.98
+551,Russell,20,68.63
+552,Loomis,76,84.97
+553,Quincy,487,60.84
+554,Scott,68,64.38
+555,6th,524,92.26
+556,Glacier Hill,550,37.07
+557,Independence,80,16.9
+558,Evergreen,397,65.35
+559,Redwing,134,78.59
+560,Delaware,315,50.86
+561,Pierstorff,23,27.29
+562,Gale,519,42.21
+563,Brentwood,1,4.92
+564,Debs,526,60.24
+565,Forster,235,59.11
+566,Melrose,176,72.59
+567,Sunbrook,200,10.6
+568,Rutledge,155,95.97
+569,Westridge,37,14.42
+570,Myrtle,139,90.06
+571,Bayside,143,56.23
+572,Merrick,218,99.24
+573,Ridgeway,272,74.85
+574,Lien,476,13.42
+575,Cottonwood,504,27.2
+576,Lakewood Gardens,140,16.2
+577,Clemons,174,68.23
+578,Eggendart,543,26.2
+579,Warrior,477,55.66
+580,Gale,78,32.68
+581,Spaight,90,57.43
+582,Pond,156,60.98
+583,Sherman,162,74.82
+584,Union,197,80.21
+585,Talisman,277,39.82
+586,Ronald Regan,320,53.44
+587,Superior,351,87.23
+588,Sage,501,1.64
+589,Northridge,6,12.0
+590,Mesta,317,47.74
+591,Porter,382,26.48
+592,Gerald,276,34.9
+593,Meadow Ridge,93,88.62
+594,Bultman,303,62.43
+595,Northview,422,67.62
+596,Shoshone,44,94.15
+597,New Castle,511,60.36
+598,Chive,365,77.33
+599,Vidon,321,91.08
+600,Raven,564,20.24
+601,Summit,529,78.16
+602,Little Fleur,559,28.01
+603,Anthes,325,75.19
+604,Grasskamp,501,40.34
+605,Washington,334,29.48
+606,5th,474,25.27
+607,Michigan,579,69.77
+608,Superior,61,62.08
+609,Gale,423,98.37
+610,Maple,147,32.57
+611,Bluejay,524,35.55
+612,Pierstorff,20,31.28
+613,Artisan,361,76.7
+614,Merry,582,79.97
+615,Dapin,31,10.9
+616,Old Gate,158,97.69
+617,Delaware,313,89.18
+618,Vahlen,405,5.59
+619,Merry,360,58.91
+620,Moland,465,6.66
+621,Thackeray,229,6.41
+622,Emmet,57,41.94
+623,Birchwood,362,42.76
+624,Evergreen,4,60.44
+625,Lien,511,81.88
+626,Derek,463,7.84
+627,Walton,463,0.89
+628,Del Mar,374,72.06
+629,Oriole,148,88.98
+630,Mendota,618,44.73
+631,Nevada,255,98.18
+632,Melrose,237,43.58
+633,Holmberg,174,7.73
+634,Sauthoff,539,40.08
+635,Fallview,579,14.09
+636,East,627,14.03
+637,Fulton,450,30.77
+638,Montana,26,25.56
+639,Mockingbird,426,18.43
+640,Killdeer,210,52.4
+641,Corben,576,74.24
+642,Kensington,27,96.94
+643,Morrow,130,19.73
+644,Fairfield,592,31.32
+645,Dixon,537,0.41
+646,Dennis,171,0.17
+647,Stone Corner,146,68.76
+648,Scott,590,0.06
+649,Walton,93,65.54
+650,Sutteridge,312,0.12
+651,Fordem,571,48.69
+652,Elka,108,45.24
+653,Birchwood,185,58.48
+654,Katie,540,16.11
+655,Tennyson,2,76.96
+656,Northridge,410,23.57
+657,Chive,503,17.48
+658,Corben,120,39.71
+659,Marcy,291,61.01
+660,Longview,414,53.15
+661,Scoville,249,67.4
+662,Barby,59,18.58
+663,Nancy,236,60.66
+664,Mayfield,303,55.59
+665,Waywood,79,31.52
+666,Arkansas,613,69.79
+667,Buena Vista,203,26.11
+668,Nobel,412,82.13
+669,Cody,304,54.56
+670,Kipling,582,39.79
+671,Buhler,538,20.4
+672,Sugar,488,40.24
+673,Troy,86,9.31
+674,Manley,69,47.51
+675,Anthes,587,89.57
+676,Rigney,159,83.66
+677,Scofield,553,24.88
+678,Debs,375,80.34
+679,Erie,37,21.84
+680,Thierer,193,37.83
+681,Hagan,132,71.24
+682,Tomscot,57,9.11
+683,Village Green,284,50.66
+684,Northridge,366,3.73
+685,Pine View,136,91.9
+686,Meadow Ridge,563,22.51
+687,Dottie,354,98.87
+688,Truax,22,91.86
+689,Esker,673,10.35
+690,Burning Wood,660,15.01
+691,Sage,574,3.99
+692,Lotheville,609,53.49
+693,Meadow Valley,218,52.86
+694,Darwin,195,84.89
+695,Truax,550,61.44
+696,Harbort,14,39.66
+697,Kropf,270,82.6
+698,Thompson,295,59.65
+699,Claremont,444,60.43
+700,Dunning,583,41.26
+701,Katie,306,12.15
+702,Annamark,608,64.57
+703,Hansons,622,71.2
+704,Sullivan,50,88.4
+705,John Wall,80,31.41
+706,Clemons,312,26.88
+707,Eagan,638,66.57
+708,Buhler,200,29.72
+709,Anderson,113,56.88
+710,Calypso,504,31.11
+711,Barby,653,32.96
+712,Vidon,700,52.19
+713,Dayton,145,74.78
+714,Magdeline,53,27.05
+715,Rowland,123,41.25
+716,Merchant,193,73.94
+717,Victoria,434,12.54
+718,Sugar,422,78.73
+719,Springs,694,69.62
+720,Marcy,709,69.4
+721,Crowley,444,45.85
+722,Lukken,84,62.87
+723,Stoughton,126,19.81
+724,Grayhawk,207,34.3
+725,Moose,703,30.1
+726,Calypso,567,39.08
+727,Pawling,589,47.9
+728,Kim,438,39.07
+729,Anderson,11,1.14
+730,Bay,389,19.97
+731,Kensington,15,43.73
+732,Northport,290,30.1
+733,Green Ridge,567,1.36
+734,Coolidge,715,83.59
+735,Fairview,600,15.23
+736,Rockefeller,512,13.1
+737,Cordelia,266,66.65
+738,Tony,521,16.7
+739,Mallory,269,12.27
+740,Toban,356,28.46
+741,Bashford,404,99.71
+742,Forest Dale,365,71.08
+743,Amoth,588,29.94
+744,Brickson Park,596,80.03
+745,Marquette,429,64.84
+746,American,249,81.19
+747,Northport,225,93.24
+748,Karstens,482,55.29
+749,Fordem,234,57.03
+750,Loftsgordon,157,69.29
+751,Forest,338,75.23
+752,Brentwood,256,57.8
+753,Lillian,429,30.24
+754,Bayside,316,31.1
+755,Red Cloud,406,48.55
+756,Harbort,357,48.42
+757,Stang,617,91.36
+758,Bluestem,286,97.84
+759,Hansons,149,27.75
+760,Glacier Hill,387,40.78
+761,Harbort,161,37.02
+762,Mesta,185,18.25
+763,Anderson,3,41.57
+764,7th,614,16.4
+765,Kim,426,12.85
+766,Morrow,27,99.78
+767,Farragut,405,23.39
+768,Westerfield,79,71.22
+769,Walton,300,59.64
+770,Eagle Crest,462,59.9
+771,Arapahoe,451,7.53
+772,Mcbride,185,19.69
+773,Kennedy,585,23.29
+774,Brentwood,314,87.61
+775,Vahlen,622,28.87
+776,Marcy,611,21.54
+777,Nobel,658,71.2
+778,Basil,304,62.26
+779,Blue Bill Park,402,16.67
+780,Annamark,144,7.46
+781,Mockingbird,777,54.81
+782,Sunfield,58,63.96
+783,Monica,154,99.24
+784,Tomscot,41,83.46
+785,Lillian,652,22.95
+786,Talmadge,699,61.89
+787,Charing Cross,768,31.7
+788,Bobwhite,215,54.46
+789,Shelley,530,58.63
+790,Loomis,198,57.18
+791,Fulton,116,77.85
+792,Waubesa,559,95.58
+793,Melody,300,59.16
+794,Algoma,49,88.83
+795,Sullivan,422,9.13
+796,Arapahoe,6,58.92
+797,Leroy,552,96.79
+798,Mendota,461,98.28
+799,Hoffman,766,25.9
+800,6th,449,62.93
+801,Scoville,658,96.8
+802,Schlimgen,67,43.28
+803,Hazelcrest,48,76.04
+804,Haas,27,57.18
+805,Lyons,335,87.76
+806,Express,707,45.18
+807,Trailsway,116,68.89
+808,Mcguire,459,93.39
+809,Swallow,389,36.6
+810,Bayside,436,43.19
+811,Westport,71,95.18
+812,Blackbird,553,91.85
+813,Maple,777,1.3
+814,Gulseth,693,40.1
+815,Dovetail,552,84.68
+816,Ridgeway,95,87.48
+817,Bunting,135,29.57
+818,Erie,278,23.57
+819,Cody,418,22.39
+820,Manufacturers,606,80.17
+821,Ludington,230,21.35
+822,Delaware,123,37.79
+823,Spaight,731,32.58
+824,Forest Dale,689,89.99
+825,Springs,189,61.21
+826,Morrow,491,11.12
+827,Hermina,249,72.56
+828,Vernon,500,73.81
+829,Hagan,564,47.01
+830,Monica,674,4.66
+831,Mcbride,613,21.62
+832,Anderson,40,66.37
+833,Fairfield,59,94.74
+834,Farmco,86,66.45
+835,Troy,55,60.45
+836,Loftsgordon,773,12.83
+837,Tomscot,769,54.11
+838,Heath,367,15.27
+839,Anzinger,17,4.76
+840,Hoard,386,35.56
+841,Express,722,98.59
+842,Towne,18,96.43
+843,Division,471,89.8
+844,Grayhawk,132,51.12
+845,Loeprich,436,39.57
+846,Heffernan,84,50.95
+847,Heath,565,34.16
+848,Miller,583,56.31
+849,Spohn,370,1.48
+850,Wayridge,41,75.94
+851,Buhler,559,7.6
+852,3rd,338,59.88
+853,Sutteridge,249,65.56
+854,Killdeer,204,98.78
+855,Butternut,675,94.55
+856,Sutherland,716,25.53
+857,Sutteridge,553,44.49
+858,Eastlawn,745,53.94
+859,Nelson,234,95.39
+860,Buell,26,28.56
+861,Ilene,813,35.17
+862,Milwaukee,10,87.69
+863,Declaration,683,95.83
+864,Ronald Regan,50,27.56
+865,Eastwood,722,53.79
+866,Dakota,701,35.58
+867,Farwell,687,94.08
+868,Mcguire,327,40.26
+869,Paget,388,67.7
+870,Mitchell,579,28.96
+871,Sommers,833,93.34
+872,Havey,450,83.22
+873,International,216,73.56
+874,Northfield,722,28.37
+875,Summerview,3,84.37
+876,Briar Crest,515,28.52
+877,Sullivan,23,10.26
+878,Dakota,117,87.84
+879,Saint Paul,172,21.67
+880,Oxford,459,9.47
+881,Ridge Oak,565,98.09
+882,Mayfield,483,82.54
+883,Beilfuss,696,66.07
+884,Old Shore,428,8.76
+885,Waywood,643,9.19
+886,Rieder,506,23.62
+887,Doe Crossing,590,18.14
+888,Spaight,282,66.82
+889,Anzinger,677,60.84
+890,Acker,692,16.0
+891,Trailsway,517,22.62
+892,Fisk,786,61.67
+893,Forest,641,34.65
+894,Grover,800,60.23
+895,Waywood,255,56.06
+896,Carberry,734,11.57
+897,Hintze,261,8.82
+898,Grasskamp,895,58.05
+899,Jenna,873,32.9
+900,Westport,824,56.14
+901,Northwestern,583,75.95
+902,Beilfuss,667,96.98
+903,Shoshone,788,23.65
+904,Havey,461,75.08
+905,Artisan,757,44.73
+906,Killdeer,534,30.76
+907,Northridge,282,91.95
+908,Randy,757,57.13
+909,Merchant,754,9.43
+910,Memorial,858,11.89
+911,Cordelia,342,4.48
+912,Eggendart,428,48.54
+913,Texas,527,64.93
+914,Mallard,788,55.45
+915,Burning Wood,761,16.68
+916,Manley,114,79.83
+917,Service,856,82.31
+918,Dwight,667,29.27
+919,Lien,109,1.43
+920,Troy,597,59.67
+921,Novick,240,10.73
+922,Fairview,884,57.4
+923,Moulton,97,2.43
+924,Northview,61,99.97
+925,Anzinger,112,15.37
+926,Sutteridge,400,98.17
+927,Monument,267,50.33
+928,Luster,847,42.43
+929,Hansons,446,31.89
+930,Lien,874,12.03
+931,Dexter,84,41.63
+932,Carey,255,33.39
+933,Orin,62,45.83
+934,Orin,732,30.82
+935,Dovetail,743,37.9
+936,Arapahoe,864,46.83
+937,Sunfield,398,49.25
+938,Del Sol,407,47.67
+939,New Castle,698,54.01
+940,Boyd,223,67.76
+941,Sunfield,570,21.0
+942,Goodland,587,44.88
+943,Fulton,678,10.28
+944,Meadow Vale,848,11.82
+945,Twin Pines,561,73.32
+946,Mccormick,815,25.82
+947,Summer Ridge,876,67.49
+948,Nancy,266,66.3
+949,Dorton,801,52.51
+950,Rigney,110,5.77
+951,Ronald Regan,203,84.31
+952,High Crossing,306,97.37
+953,Mandrake,221,20.51
+954,Kim,364,18.56
+955,Anderson,258,39.19
+956,Autumn Leaf,423,92.14
+957,Manley,438,88.67
+958,Stone Corner,822,62.91
+959,Green Ridge,889,33.0
+960,Clarendon,278,19.2
+961,Forest Dale,576,17.24
+962,Merrick,596,38.05
+963,Toban,814,48.52
+964,Mendota,325,58.46
+965,Northridge,167,63.76
+966,Village Green,274,60.0
+967,Fordem,215,89.7
+968,Golden Leaf,228,69.69
+969,Maple,760,76.16
+970,Crest Line,960,75.73
+971,Bluejay,40,42.69
+972,Mandrake,702,74.45
+973,Amoth,627,25.4
+974,7th,705,61.38
+975,Stang,461,4.73
+976,Marquette,567,5.75
+977,Declaration,619,68.92
+978,Corben,216,34.91
+979,Bluestem,132,75.67
+980,Montana,116,56.7
+981,Shopko,669,79.06
+982,Harbort,540,31.87
+983,Arizona,414,90.6
+984,Loeprich,62,53.09
+985,Cottonwood,86,31.48
+986,Chinook,329,38.27
+987,Norway Maple,684,57.78
+988,Dottie,132,99.26
+989,Fulton,96,13.4
+990,Kingsford,207,39.64
+991,Kenwood,700,28.4
+992,Eastlawn,804,41.02
+993,Pawling,755,44.21
+994,Lake View,116,42.84
+995,Summer Ridge,970,0.29
+996,Monica,176,78.37
+997,Jackson,181,44.93
+998,Lindbergh,606,44.42
+999,Maryland,584,6.3
+1000,Lotheville,680,14.35

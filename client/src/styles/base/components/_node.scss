@@ -1,0 +1,53 @@
+.node_container {
+    line-height: 20%;
+    margin-left: 50px;
+    position: relative;
+}
+
+.node_container p:first-child,
+.node_container p:last-child {
+    margin-left: -27px;
+}
+
+@mixin node_container__collapse() {
+    margin-right: 1em;
+    margin-left: -20px;
+    position: relative;
+}
+
+.node_container__collapsed {
+    display: inline;
+}
+
+.node_container__collapsed::before {
+    @include node_container__collapse();
+    content: "+";
+}
+
+.node_container__collapsor::before {
+    @include node_container__collapse();
+    content: "-";
+}
+
+.btn {
+    font-family: monospace;
+    position: absolute;
+    top: 87px;
+    border-radius: 5px;
+    border: 1px #ccc solid;
+    background-color: #fff;
+    transition: all 0.2s;
+}
+
+.btn:hover {
+    background-color: #ccc;
+    border: 1px rgb(112, 112, 112) solid;
+}
+
+.btn--Add {
+    left: 150px;
+}
+
+.btn--Remove {
+    left: 200px;
+}
