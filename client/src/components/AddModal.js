@@ -25,7 +25,7 @@ class AddModal extends React.Component {
 
   closeModal(e) {
     e.preventDefault();
-    this.setState({ modalIsOpen: false });
+    this.setState({ modalIsOpen: false, errors: undefined });
   }
 
   handleInputChanged(e) {
@@ -93,17 +93,19 @@ class AddModal extends React.Component {
             </div>
           )}
           <form onSubmit={this.submitHandler}>
+            <p>Name</p>
             <input
               type="text"
               className="add_form"
-              placeholder="Name"
+              placeholder="James"
               name="name"
               onChange={this.handleInputChanged}
             />
+            <p>Amount</p>
             <input
               type="text"
               className="add_form"
-              placeholder="Amount (123.12)"
+              placeholder="max 2 decimal places"
               name="amount"
               onChange={this.handleInputChanged}
             />
@@ -119,12 +121,12 @@ class AddModal extends React.Component {
   }
 }
 
-AddModal.prototype = {
+AddModal.propTypes = {
   parentId: PropTypes.string.isRequired,
   id: PropTypes.string.isRequired,
-  total_amount : PropTypes.number.isRequired,
+  total_amount: PropTypes.number.isRequired,
   addChild: PropTypes.func.isRequired,
   removeChild: PropTypes.func.isRequired
-}
+};
 
 export default AddModal;

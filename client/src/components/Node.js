@@ -109,7 +109,7 @@ class Node extends React.Component {
   }
 }
 
-Node.PropTypes = {
+Node.propTypes  = {
   id: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
   parent_id: PropTypes.string.isRequired,
